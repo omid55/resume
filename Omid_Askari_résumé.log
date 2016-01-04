@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.1415926-2.5-1.40.14 (TeX Live 2013/Debian) (format=pdflatex 2015.10.14)  3 JAN 2016 21:53
+This is pdfTeX, Version 3.1415926-2.5-1.40.14 (TeX Live 2013/Debian) (format=pdflatex 2015.10.14)  3 JAN 2016 23:39
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -812,20 +812,16 @@ File: epstopdf-sys.cfg 2010/07/13 v1.3 Configuration of (r)epstopdf for TeX Liv
 e
 ))
 LaTeX Font Info:    External font `cmex10' loaded for size
-(Font)              <7> on input line 29.
+(Font)              <7> on input line 28.
 LaTeX Font Info:    External font `cmex10' loaded for size
-(Font)              <5> on input line 29.
+(Font)              <5> on input line 28.
+LaTeX Font Info:    Try loading font information for OMS+cmr on input line 49.
 
-Overfull \hbox (56.75407pt too wide) in paragraph at lines 28--29
- [][]\OT1/cmr/m/n/10 omid55@cs.ucsb.edu[]  [] 
- []
-
-LaTeX Font Info:    Try loading font information for OMS+cmr on input line 50.
 (/usr/share/texlive/texmf-dist/tex/latex/base/omscmr.fd
 File: omscmr.fd 1999/05/25 v2.5h Standard LaTeX font definitions
 )
 LaTeX Font Info:    Font shape `OMS/cmr/m/n' in size <10> not available
-(Font)              Font shape `OMS/cmsy/m/n' tried instead on input line 50.
+(Font)              Font shape `OMS/cmsy/m/n' tried instead on input line 49.
  [1
 
 {/var/lib/texmf/fonts/map/pdftex/updmap/pdftex.map}]
@@ -837,10 +833,10 @@ Package atveryend Info: Empty hook `AtEndAfterFileList' on input line 291.
 Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 291.
  ) 
 Here is how much of TeX's memory you used:
- 14999 strings out of 495028
- 264323 string characters out of 6181496
- 342578 words of memory out of 5000000
- 17947 multiletter control sequences out of 15000+600000
+ 15001 strings out of 495028
+ 264389 string characters out of 6181496
+ 341578 words of memory out of 5000000
+ 17949 multiletter control sequences out of 15000+600000
  5921 words of font info for 21 fonts, out of 8000000 for 9000
  14 hyphenation exceptions out of 8191
  63i,8n,57p,577b,423s stack positions out of 5000i,500n,10000p,200000b,80000s
@@ -853,7 +849,7 @@ st/fonts/type1/public/amsfonts/cm/cmr10.pfb></usr/share/texlive/texmf-dist/font
 s/type1/public/amsfonts/cm/cmsl10.pfb></usr/share/texlive/texmf-dist/fonts/type
 1/public/amsfonts/cm/cmsy10.pfb></usr/share/texlive/texmf-dist/fonts/type1/publ
 ic/amsfonts/cm/cmti10.pfb>
-Output written on Omid_Askari_résumé.pdf (2 pages, 129983 bytes).
+Output written on Omid_Askari_résumé.pdf (2 pages, 130002 bytes).
 PDF statistics:
  77 PDF objects out of 1000 (max. 8388607)
  63 compressed objects within 1 object stream
