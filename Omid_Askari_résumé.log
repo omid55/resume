@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.1415926-2.5-1.40.14 (TeX Live 2013/Debian) (format=pdflatex 2015.10.14)  18 JAN 2016 17:55
+This is pdfTeX, Version 3.1415926-2.5-1.40.14 (TeX Live 2013/Debian) (format=pdflatex 2015.10.14)  26 JAN 2016 19:25
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -823,14 +823,19 @@ LaTeX Font Info:    Font shape `OMS/cmr/m/n' in size <10> not available
  [1
 
 {/var/lib/texmf/fonts/map/pdftex/updmap/pdftex.map}]
-Package atveryend Info: Empty hook `BeforeClearDocument' on input line 276.
- [2]
-Package atveryend Info: Empty hook `AfterLastShipout' on input line 276.
-Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 276.
-Package atveryend Info: Empty hook `AtEndAfterFileList' on input line 276.
-Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 276.
+Overfull \hbox (13.3239pt too wide) in paragraph at lines 147--148
+[]\OT1/cmr/m/n/10 This project won a sil-ver medal in IENA, In-ter-na-tional Ex
+-hi-bi-tion `` Ideas-Inventions-Novelties'', Nov 5-8, 2009, N[]URNBERG,
+ []
+
+Package atveryend Info: Empty hook `BeforeClearDocument' on input line 275.
+[2]
+Package atveryend Info: Empty hook `AfterLastShipout' on input line 275.
+Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 275.
+Package atveryend Info: Empty hook `AtEndAfterFileList' on input line 275.
+Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 275.
  )
-(\end occurred when \iftrue on line 119 was incomplete) 
+(\end occurred when \iftrue on line 118 was incomplete) 
 Here is how much of TeX's memory you used:
  14996 strings out of 495028
  264253 string characters out of 6181496
@@ -849,7 +854,7 @@ msfonts/cm/cmr10.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts
 /cm/cmr8.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmsl
 10.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy10.pfb
 ></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmti10.pfb>
-Output written on Omid_Askari_résumé.pdf (2 pages, 142031 bytes).
+Output written on Omid_Askari_résumé.pdf (2 pages, 141684 bytes).
 PDF statistics:
  83 PDF objects out of 1000 (max. 8388607)
  68 compressed objects within 1 object stream
